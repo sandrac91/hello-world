@@ -25,7 +25,7 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <p>I like trains!</p>
+    <p>I really like trains!</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
